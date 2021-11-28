@@ -10,6 +10,7 @@
 ### Connect with me:
 [<img align="left" alt="rozar1o | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="roz1rio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="roz1rio | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 <br />
@@ -18,6 +19,7 @@
 
 [instagram]: https://www.instagram.com/theironmaan/
 [linkedin]: https://www.linkedin.com/in/omi-evance-rozario-461202175/
+[facebook]: https://www.facebook.com/rozarioneel/
 
 <br />
 
