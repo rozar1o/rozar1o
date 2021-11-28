@@ -8,7 +8,8 @@
 - ⚡ Fun fact: I love to play guitar & tours!!!
 
 ### Connect with me:
-
+[<img align="left" alt="rozar1o | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="roz1rio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
