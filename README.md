@@ -18,3 +18,7 @@
 
 [instagram]: https://www.instagram.com/theironmaan/
 [linkedin]: https://www.linkedin.com/in/omi-evance-rozario-461202175/
+
+<br />
+
+https://github-readme-stats.vercel.app/api?username=rozar1o_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
